@@ -1,0 +1,12 @@
+{
+    "background": "Background_Purple",
+    "status": "beforeSleep",
+    "title": "准备就寝",
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_Home_BeforeSleep",
+            "id": "stretch2",
+            "title": "睡前舒缓运动"
+        }
+    ]
+}

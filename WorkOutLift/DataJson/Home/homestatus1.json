@@ -1,0 +1,17 @@
+{
+    "background": "Background_Green",
+    "status": "working",
+    "title": "工作中",
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_Home_LongSit",
+            "id": "stretch0",
+            "title": "久坐伸展"
+        },
+        {
+            "buttonImage": "Icon_Home_LongStand",
+            "id": "stretch1",
+            "title": "久站伸展"
+        }
+    ]
+}

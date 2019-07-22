@@ -1,0 +1,185 @@
+[
+    {
+        "description": "起身动一动，活络代谢舒缓身心",
+        "icon": "Icon_Workout_LongSit",
+        "id": "stretch0",
+        "time": 5,
+        "title": "久坐伸展",
+        "workoutSet": [
+            {
+                "count": 30,
+                "description": "1. 坐在椅子上，背挺直。\n2. 以右肩带动上半身慢慢向左侧扭转，直到腰部微微紧绷为止。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_6Sitting_01UpperSpin1",
+                    "Stretch_6Sitting_01UpperSpin2"
+                ],
+                "perDuration": 15,
+                "repeat": 2,
+                "thumbnail": "Stretch_Sit_01",
+                "title": "上半身转体"
+            },
+            {
+                "count": 30,
+                "description": "1. 坐在椅子上，背挺直。\n2. 以右肩带动上半身慢慢向左侧扭转，直到腰部微微紧绷为止。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_6Sitting_02Bow1",
+                    "Stretch_6Sitting_02Bow2"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Sit_02",
+                "title": "立姿弯腰"
+            },
+            {
+                "count": 10,
+                "description": "1. 坐在椅子上，双手抓住桌子边缘。\n2. 下巴内收后，使力将坐着的椅子慢慢往后推。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_6Sitting_03SitPush1",
+                    "Stretch_6Sitting_03SitPush2"
+                ],
+                "perDuration": 10,
+                "repeat": 1,
+                "thumbnail": "Stretch_Sit_03",
+                "title": "背部肌肉伸展"
+            },
+            {
+                "count": 10,
+                "description": "1. 站姿，手扶椅背。右脚向后跨开，重心放在左侧。\n2. 膝盖慢慢弯曲下压，使右侧膝盖伸直且脚后跟紧贴地面。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_6Sitting_04LegStretch1",
+                    "Stretch_6Sitting_04LegStretch2"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Sit_04",
+                "title": "扶椅子伸展腿部"
+            }
+        ]
+    },
+    {
+        "description": "工作久站腿酸难耐？舒缓你辛劳的腿部",
+        "icon": "Icon_Workout_LongStand",
+        "id": "stretch1",
+        "time": 5,
+        "title": "久站伸展",
+        "workoutSet": [
+            {
+                "count": 10,
+                "description": "1. 一脚膝盖伸直，做出脚勾的动作。\n2. 挺直腰背让肚子靠近大腿，伸展小腿、大腿后侧的肌群。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_7Standing_01FootStretch1",
+                    "Stretch_7Standing_01FootStretch2"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Stand_01",
+                "title": "直膝伸展"
+            },
+            {
+                "count": 10,
+                "description": "1. 将脚背轻压在台阶上，做出脚板往下的踮脚尖动作。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_7Standing_02FootPress1",
+                    "Stretch_7Standing_02FootPress2"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Stand_02",
+                "title": "小腿前侧伸展"
+            },
+            {
+                "count": 10,
+                "description": "1. 利用小腿前、后侧肌肉轮流出力，可以促进腿部循环，还能达到肌肉互相抑制的效果，强迫对侧肌肉放松、休息。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_7Standing_03TipWalk",
+                    "Stretch_7Standing_03TipWalk"
+                ],
+                "perDuration": 10,
+                "repeat": 1,
+                "thumbnail": "Stretch_Stand_03",
+                "title": "踮脚走"
+            },
+            {
+                "count": 10,
+                "description": "1. 利用小腿前、后侧肌肉轮流出力，可以促进腿部循环，还能达到肌肉互相抑制的效果，强迫对侧肌肉放松、休息。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_7Standing_04TipWalk",
+                    "Stretch_7Standing_04TipWalk"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Stand_04",
+                "title": "勾脚走"
+            }
+        ]
+    },
+    {
+        "description": "促进代谢，助你一夜好眠",
+        "icon": "Icon_Workout_BeforeSleep",
+        "id": "stretch2",
+        "time": 10,
+        "title": "睡前舒缓",
+        "workoutSet": [
+            {
+                "count": 10,
+                "description": "1. 盘腿坐下，双脚脚底合并。用手抓着脚踝，尽量将脚跟往身体的方向拉。\n2. 上半身缓缓向前倾。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_8Sleep_01SitBow1",
+                    "Stretch_8Sleep_01SitBow2"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Sleep_01",
+                "title": "双腿内侧伸展"
+            },
+            {
+                "count": 10,
+                "description": "1. 仰躺屈膝，双手抱住膝盖，缓缓地吸气，维持二十至三十秒。\n2. 抬起头，将视线对着肚子，依边抬起臀部让膝盖更靠近身体，一边缓缓地吐气。维持二十至三十秒。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_8Sleep_02BackBow1",
+                    "Stretch_8Sleep_02BackBow2"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Sleep_02",
+                "title": "臀部、后背、腹肌伸展"
+            },
+            {
+                "count": 10,
+                "description": "1. 仰躺摊开双手，立起膝盖。\n2. 双肩贴着床，将膝盖向右边倒下，头部转向左边。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_8Sleep_03LaySpin1",
+                    "Stretch_8Sleep_03LaySpin2"
+                ],
+                "perDuration": 10,
+                "repeat": 1,
+                "thumbnail": "Stretch_Sleep_03",
+                "title": "腰部转体运动"
+            },
+            {
+                "count": 10,
+                "description": "1. 将枕头或浴巾卷成圆筒形放在腰部下方，\u2028仰躺举起双手，放松全身的力气。维持二十至三十秒。",
+                "hint": "双手握住毛巾两端后往上伸直",
+                "images": [
+                    "Stretch_8Sleep_04Lay",
+                    "Stretch_8Sleep_04Lay"
+                ],
+                "perDuration": 15,
+                "repeat": 1,
+                "thumbnail": "Stretch_Sleep_04",
+                "title": "全身伸展"
+            }
+        ]
+    }
+]

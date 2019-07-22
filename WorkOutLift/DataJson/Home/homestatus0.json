@@ -1,0 +1,32 @@
+{
+    "background": "Background_Orange",
+    "status": "resting",
+    "title": "休息中",
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_Home_WatchTV",
+            "id": "train0",
+            "title": "看电视一边做"
+        },
+        {
+            "buttonImage": "Icon_Home_BackPain",
+            "id": "train1",
+            "title": "预防腰痛"
+        },
+        {
+            "buttonImage": "Icon_Home_WholeBody",
+            "id": "train2",
+            "title": "全身运动"
+        },
+        {
+            "buttonImage": "Icon_Home_UpperBody",
+            "id": "train3",
+            "title": "上半身运动"
+        },
+        {
+            "buttonImage": "Icon_Home_LowerBody",
+            "id": "train4",
+            "title": "下半身运动"
+        }
+    ]
+}
